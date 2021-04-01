@@ -1,19 +1,21 @@
-body {
+body main {
   margin: 10px auto; 
   width: 800px;
-  background-color: #Fefae0;
 }
 header {
-  color: #606c38;
+  color: white;
   font-size: 25px;
   text-transform: uppercase;
   font-weight: bold;
-  font-size: oblique;
-  font-family: helvetica, arial, sam-serif;
+  font-style: oblique;
+  font-family: helvetica, arial, san-serif;
+  text-align: center
+  background-color: #283618;
 }
 h2 {
   color: #bc6c25;
   text-align: center;
+  font-family: helvetica, arial, san-serif;
 }
 footer {
   background-color: #283618;
